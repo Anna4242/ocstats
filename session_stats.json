@@ -1,0 +1,13 @@
+{
+  "dataset": "arcee-train/opencode-dump",
+  "total_sessions": 385016,
+  "single_turn": {
+    "count": 258156,
+    "percent": 67.1
+  },
+  "multi_turn": {
+    "count": 126860,
+    "percent": 32.9
+  },
+  "categorization_method": "unique user messages per session (1 = single, 2+ = multi)"
+}
