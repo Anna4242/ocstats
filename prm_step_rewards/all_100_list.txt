@@ -1,0 +1,111 @@
+====================================================================================================
+ALL 100 SESSIONS - RANKED BY NEW STEP REWARD SCORE
+====================================================================================================
+
+Rank  Session ID                          Old PRM    New Step   Steps    Chunks   Msgs    
+----------------------------------------------------------------------------------------------------
+  1. ses_4ad346f5dffenUkFD0p1RwI1rd... | old=0.914 | new=0.988 | steps=112 | chunks= 2 | msgs= 112
+  2. ses_4a9f466bbffeozfcFPn4HTSh74... | old=0.932 | new=0.969 | steps=  1 | chunks= 1 | msgs=   3
+  3. ses_488e18eedffeVdAsxu4bNpXy3S... | old=0.924 | new=0.969 | steps=  1 | chunks= 1 | msgs=   3
+  4. ses_49365e43fffeIIv5lwq7QqppyK... | old=0.896 | new=0.963 | steps= 10 | chunks= 1 | msgs=  21
+  5. ses_49d640905ffevbB6ehPU5x39EW... | old=0.828 | new=0.959 | steps=  5 | chunks= 1 | msgs=  11
+  6. ses_4a71c3706ffe6XLOV0O8I200P4... | old=0.951 | new=0.956 | steps= 27 | chunks= 1 | msgs=  59
+  7. ses_499ea34aaffeEvnGU3e2knNWaK... | old=0.922 | new=0.948 | steps=  4 | chunks= 1 | msgs=   9
+  8. ses_4b1262a05ffcbA50l5S2YDIQVK... | old=0.932 | new=0.941 | steps=  1 | chunks= 1 | msgs=   3
+  9. ses_4ad7ffd6cffe5X8lIZwov2iAeU... | old=0.951 | new=0.938 | steps=  8 | chunks= 1 | msgs=  17
+ 10. ses_4b37f3f92ffeNpAyLpGWGPhlID... | old=0.965 | new=0.938 | steps=  1 | chunks= 1 | msgs=   3
+ 11. ses_499ecb186ffeKshuy8drlxsef5... | old=0.862 | new=0.922 | steps= 14 | chunks= 1 | msgs=  30
+ 12. ses_47f81f47cffbJ6TBZTB065450R... | old=0.920 | new=0.918 | steps=  2 | chunks= 1 | msgs=   5
+ 13. ses_496a82966ffeqIrKVJq6En3UcX... | old=0.963 | new=0.916 | steps=142 | chunks= 6 | msgs= 273
+ 14. ses_48ebe3f8effeQMZRqVaCSSgBp5... | old=0.971 | new=0.914 | steps=  9 | chunks= 3 | msgs=  23
+ 15. ses_4a151f0bfffen9ldszBu0vzhmL... | old=0.867 | new=0.910 | steps= 28 | chunks= 5 | msgs=  57
+ 16. ses_49887006affe5q6Dxo2nDQsQXs... | old=0.943 | new=0.908 | steps= 70 | chunks= 7 | msgs= 116
+ 17. ses_4b00490d5ffeRHL6fmcpGt2swj... | old=0.949 | new=0.904 | steps=  6 | chunks= 1 | msgs=  15
+ 18. ses_49759d31cffenct6TvJy0rMLBb... | old=0.741 | new=0.904 | steps=216 | chunks=18 | msgs= 372
+ 19. ses_4a0ea649fffevJWuwbQWboPsxK... | old=0.927 | new=0.902 | steps=148 | chunks=12 | msgs= 269
+ 20. ses_4aedd77c3ffeyPFGIWvizOApxs... | old=0.888 | new=0.900 | steps=113 | chunks= 8 | msgs= 210
+ 21. ses_4b26a3b87ffecwGFnH1d4QCvzM... | old=0.907 | new=0.900 | steps= 57 | chunks= 5 | msgs= 107
+ 22. ses_489c0e09dffea15dyyAKhP09t2... | old=0.953 | new=0.898 | steps= 92 | chunks=11 | msgs= 160
+ 23. ses_491ffe203ffern61LPZn3aMB2s... | old=0.849 | new=0.893 | steps= 17 | chunks= 3 | msgs=  35
+ 24. ses_47fa0824cffeTEL9twBtn9VAY6... | old=0.885 | new=0.889 | steps= 64 | chunks= 5 | msgs= 109
+ 25. ses_48b1c32d2ffeozr0JQ9MqsUMuR... | old=0.966 | new=0.886 | steps= 60 | chunks=10 | msgs= 105
+ 26. ses_4a48c50e1ffePl2HQzHpIoLd28... | old=0.977 | new=0.881 | steps=143 | chunks=10 | msgs= 251
+ 27. ses_498dc38e3ffeqzbQ0pDCrhR1lM... | old=0.795 | new=0.878 | steps= 25 | chunks= 5 | msgs=  52
+ 28. ses_4a54bd670ffenxzYelLlFvk6iS... | old=0.926 | new=0.876 | steps= 62 | chunks= 9 | msgs= 109
+ 29. ses_4969d9a3effeLs7H2vY3W2Saqj... | old=0.917 | new=0.875 | steps=  2 | chunks= 1 | msgs=   5
+ 30. ses_4819a6e0cffeYmorfpWvgvsnAz... | old=0.807 | new=0.873 | steps= 39 | chunks= 7 | msgs=  78
+ 31. ses_48ee5b517ffe05BB4pxFMnoE5z... | old=0.756 | new=0.872 | steps=115 | chunks= 6 | msgs= 217
+ 32. ses_49673a86dffeLBwpBgthQ4ZeGh... | old=0.889 | new=0.859 | steps=  2 | chunks= 1 | msgs=   5
+ 33. ses_4a9b4535effekK78sNdZM4Yzoa... | old=0.826 | new=0.859 | steps=187 | chunks=23 | msgs= 302
+ 34. ses_4b3502dfafferCzS3GJ0nwy0w8... | old=0.901 | new=0.857 | steps= 32 | chunks=11 | msgs=  48
+ 35. ses_4a2eb987bffeLuDafx80QoMORF... | old=0.844 | new=0.853 | steps=261 | chunks=37 | msgs= 392
+ 36. ses_4a61b9299ffecMpRoHj7PuXCX6... | old=0.944 | new=0.851 | steps=175 | chunks=19 | msgs= 309
+ 37. ses_4ade09eb3ffebrFMLzlhZ8WfMS... | old=0.949 | new=0.839 | steps= 28 | chunks= 7 | msgs=  72
+ 38. ses_49d9a240bffe0hHTmsQI6su3oZ... | old=0.918 | new=0.834 | steps= 11 | chunks= 5 | msgs=  22
+ 39. ses_48e07b1e2ffe25VRYGnRavvzfD... | old=0.928 | new=0.831 | steps= 99 | chunks=18 | msgs= 165
+ 40. ses_4968ecbabffeBDg6swxBhlnguh... | old=0.940 | new=0.830 | steps=  2 | chunks= 1 | msgs=   5
+ 41. ses_49674b248ffemcp2zkX8KPYvT9... | old=0.887 | new=0.828 | steps=  2 | chunks= 1 | msgs=   5
+ 42. ses_4b1560d66ffeJGbaSTcapqEsMm... | old=0.905 | new=0.826 | steps= 22 | chunks= 7 | msgs=  37
+ 43. ses_4856722c8ffevlsXj860uj5si9... | old=0.927 | new=0.821 | steps= 94 | chunks=19 | msgs= 139
+ 44. ses_4b1a65a01ffeIBcorhFowHhCaF... | old=0.908 | new=0.804 | steps= 11 | chunks= 7 | msgs=  23
+ 45. ses_48a9106aeffeZb2aM820w23mq2... | old=0.866 | new=0.799 | steps= 77 | chunks= 9 | msgs= 139
+ 46. ses_4843ad527ffee8wwZVahHXfBVg... | old=0.922 | new=0.798 | steps= 27 | chunks= 4 | msgs=  46
+ 47. ses_49e5d01bfffeaF2DyxZGopEcLv... | old=0.914 | new=0.791 | steps= 42 | chunks=12 | msgs=  66
+ 48. ses_47eae96adffeNxWLFaFFCh2gpl... | old=0.821 | new=0.790 | steps=144 | chunks=32 | msgs= 202
+ 49. ses_48699ada1ffeIbw6iDZsX2S3fd... | old=0.946 | new=0.789 | steps=339 | chunks=62 | msgs= 521
+ 50. ses_48d7d46c5ffe9KApCoyjTWLR46... | old=0.968 | new=0.787 | steps=119 | chunks=26 | msgs= 179
+ 51. ses_496737805ffehIjxaBBzuRYwtS... | old=0.929 | new=0.785 | steps=  2 | chunks= 1 | msgs=   5
+ 52. ses_4b026c0b8ffeg4Ltd5NazgyyHf... | old=0.748 | new=0.781 | steps= 13 | chunks= 1 | msgs=  22
+ 53. ses_481af965cffeaULmrtGVarn51v... | old=0.746 | new=0.775 | steps= 44 | chunks= 8 | msgs=  70
+ 54. ses_4952a159dffeedr36ywJFa9O1S... | old=0.946 | new=0.767 | steps=138 | chunks=35 | msgs= 217
+ 55. ses_4b72b1c4affeSIf3FHTvsFCSjk... | old=0.942 | new=0.760 | steps= 14 | chunks= 2 | msgs=  24
+ 56. ses_497387244ffeUzsBNAbeuegSGI... | old=0.943 | new=0.759 | steps= 19 | chunks= 6 | msgs=  31
+ 57. ses_4b18c9a24ffepj955rQDR7V8QL... | old=0.932 | new=0.758 | steps=146 | chunks=51 | msgs= 178
+ 58. ses_485f9fd2effenSqj4x76ZFsPdv... | old=0.903 | new=0.745 | steps=197 | chunks=50 | msgs= 248
+ 59. ses_4a82e8912ffeHTkIH3PAQrtSmK... | old=0.809 | new=0.738 | steps=357 | chunks=63 | msgs= 499
+ 60. ses_49388f310ffex679Dvcr44c63B... | old=0.920 | new=0.727 | steps=  1 | chunks= 1 | msgs=   3
+ 61. ses_47ed47634ffeO7Bo5h5BnSf3BP... | old=0.928 | new=0.718 | steps= 10 | chunks= 1 | msgs=  21
+ 62. ses_4a00d0752ffeYjFt2wZxuhrSx6... | old=0.769 | new=0.713 | steps=214 | chunks=64 | msgs= 280
+ 63. ses_47ff2c17affemYJFh5YI6rCnp0... | old=0.931 | new=0.707 | steps= 38 | chunks=10 | msgs= 137
+ 64. ses_481e378cfffeyDwKsJV8PTK7P9... | old=0.911 | new=0.702 | steps= 10 | chunks= 1 | msgs=  24
+ 65. ses_48b741b6dffe2Xzcn6q24z4vco... | old=0.907 | new=0.702 | steps=175 | chunks=55 | msgs= 209
+ 66. ses_47f586d1cffe6U4239YSOE3fWw... | old=0.833 | new=0.694 | steps=  7 | chunks= 6 | msgs=  31
+ 67. ses_499783e82ffeMAnjtlCt3rBXHI... | old=0.753 | new=0.693 | steps= 16 | chunks=12 | msgs=  41
+ 68. ses_4aac7c20cffeTKpySMFpaLvknb... | old=0.949 | new=0.691 | steps= 30 | chunks=24 | msgs= 106
+ 69. ses_4a53a610bffeYrH2QAzWb7L0VG... | old=0.764 | new=0.688 | steps=112 | chunks=24 | msgs= 181
+ 70. ses_490f39613ffeQfHDKZ0NFt22C1... | old=0.831 | new=0.686 | steps= 12 | chunks= 7 | msgs=  35
+ 71. ses_489bff093ffeoXMj6fztp8SBh0... | old=0.826 | new=0.673 | steps= 10 | chunks= 8 | msgs=  19
+ 72. ses_4947e1948ffekpw2sdzU9UDvAO... | old=0.854 | new=0.670 | steps= 18 | chunks=10 | msgs= 153
+ 73. ses_47f68d695ffersxNas95nyB6sI... | old=0.833 | new=0.670 | steps=  4 | chunks= 1 | msgs=  15
+ 74. ses_4b6da7165ffeWgUjr1qthR0dGI... | old=0.790 | new=0.669 | steps=  9 | chunks= 6 | msgs=  26
+ 75. ses_4b71de42fffen3IblwpFJl9NoE... | old=0.930 | new=0.665 | steps= 32 | chunks=18 | msgs= 151
+ 76. ses_495df12e2ffe9SdNnBbJB62Z9F... | old=0.840 | new=0.662 | steps=  2 | chunks= 1 | msgs=  14
+ 77. ses_493b33962ffeJ6yYr4cIijuIxt... | old=0.869 | new=0.658 | steps= 11 | chunks= 6 | msgs=  43
+ 78. ses_48ef7b7f5ffeqg67nHH0rWKm9y... | old=0.831 | new=0.653 | steps= 18 | chunks=10 | msgs=  37
+ 79. ses_48ba0ce4dffetbCmlXB2B85OQS... | old=0.758 | new=0.651 | steps=507 | chunks=79 | msgs= 768
+ 80. ses_4a2a154f3ffe5MyzfQ0G85ClDX... | old=0.899 | new=0.646 | steps= 30 | chunks=14 | msgs= 185
+ 81. ses_4b100f7b0ffeX21XqXCqktC6fe... | old=0.879 | new=0.645 | steps= 82 | chunks=21 | msgs= 114
+ 82. ses_4ab9e798dffe3Ey1snakQ3yd6N... | old=0.823 | new=0.644 | steps= 45 | chunks=14 | msgs=  59
+ 83. ses_4b41b262effeXMQC4oVMl9bP1S... | old=0.920 | new=0.636 | steps= 44 | chunks=19 | msgs=  67
+ 84. ses_49a836147ffeCDK3A6Zht0RN1Q... | old=0.850 | new=0.634 | steps= 11 | chunks= 9 | msgs=  31
+ 85. ses_48994e23fffeuIUxXIa5YcObBo... | old=0.842 | new=0.629 | steps=  2 | chunks= 2 | msgs=   6
+ 86. ses_496b78b04ffeAZaVyUqPaLPe6E... | old=0.895 | new=0.625 | steps=  3 | chunks= 2 | msgs=   5
+ 87. ses_485a02b40ffeFGbEMTxGTzzmbt... | old=0.719 | new=0.594 | steps= 11 | chunks= 6 | msgs=  40
+ 88. ses_49c6ece1affec2NKWwqv4qpyXd... | old=0.954 | new=0.591 | steps= 24 | chunks=13 | msgs= 140
+ 89. ses_480aacf87fferTDieDfjeZOYSY... | old=0.959 | new=0.578 | steps=  1 | chunks= 1 | msgs=   3
+ 90. ses_496b64117ffdoDDLjSqlwz2n4e... | old=0.904 | new=0.555 | steps=  2 | chunks= 2 | msgs=   5
+ 91. ses_481e29c83ffeHNcxbubmZmcb6T... | old=0.886 | new=0.550 | steps=  2 | chunks= 1 | msgs=  15
+ 92. ses_4a3ec6cb1ffeYMBDXwwN57In2i... | old=0.918 | new=0.527 | steps= 28 | chunks=17 | msgs=  43
+ 93. ses_490298d09ffeIT2tN16gLZEopn... | old=0.817 | new=0.516 | steps=  9 | chunks= 9 | msgs=  48
+ 94. ses_4a5caecb7ffeJH1wo85VCB3711... | old=0.836 | new=0.500 | steps=  1 | chunks= 1 | msgs=   3
+ 95. ses_4817bb290ffezzdrBRaNodrh54... | old=0.912 | new=0.500 | steps=  1 | chunks= 1 | msgs=   6
+ 96. ses_4aaa74cc3ffeQ8qsni4FH6tM39... | old=0.963 | new=0.500 | steps=  4 | chunks= 4 | msgs= 115
+ 97. ses_48eeef60dffeEa2tor5u74icPm... | old=0.773 | new=0.500 | steps= 20 | chunks=20 | msgs= 181
+ 98. ses_48ed364b4ffenhuy0uaEN0qLfo... | old=0.769 | new=0.500 | steps=  4 | chunks= 4 | msgs= 135
+ 99. ses_48658982bffeFun5XpmSlV3Otv... | old=0.970 | new=0.468 | steps= 17 | chunks= 7 | msgs=  21
+100. ses_492f4b423ffeKBVjUYEkQjSNfK... | old=0.916 | new=0.457 | steps=  5 | chunks= 5 | msgs=  29
+
+----------------------------------------------------------------------------------------------------
+Total: 100 sessions
+Mean old: 0.885
+Mean new: 0.764

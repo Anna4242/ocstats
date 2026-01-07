@@ -1,0 +1,16 @@
+====================================================================================================
+BOTTOM 10 SESSIONS - LOWEST STEP REWARD SCORES
+====================================================================================================
+
+Rank  Session ID                          Old PRM    New Step   Steps    Chunks   Msgs    
+----------------------------------------------------------------------------------------------------
+ 91. ses_481e29c83ffeHNcxbubmZmcb6T... | old=0.886 | new=0.550 | steps=  2 | chunks= 1 | msgs=  15
+ 92. ses_4a3ec6cb1ffeYMBDXwwN57In2i... | old=0.918 | new=0.527 | steps= 28 | chunks=17 | msgs=  43
+ 93. ses_490298d09ffeIT2tN16gLZEopn... | old=0.817 | new=0.516 | steps=  9 | chunks= 9 | msgs=  48
+ 94. ses_4a5caecb7ffeJH1wo85VCB3711... | old=0.836 | new=0.500 | steps=  1 | chunks= 1 | msgs=   3
+ 95. ses_4817bb290ffezzdrBRaNodrh54... | old=0.912 | new=0.500 | steps=  1 | chunks= 1 | msgs=   6
+ 96. ses_4aaa74cc3ffeQ8qsni4FH6tM39... | old=0.963 | new=0.500 | steps=  4 | chunks= 4 | msgs= 115
+ 97. ses_48eeef60dffeEa2tor5u74icPm... | old=0.773 | new=0.500 | steps= 20 | chunks=20 | msgs= 181
+ 98. ses_48ed364b4ffenhuy0uaEN0qLfo... | old=0.769 | new=0.500 | steps=  4 | chunks= 4 | msgs= 135
+ 99. ses_48658982bffeFun5XpmSlV3Otv... | old=0.970 | new=0.468 | steps= 17 | chunks= 7 | msgs=  21
+100. ses_492f4b423ffeKBVjUYEkQjSNfK... | old=0.916 | new=0.457 | steps=  5 | chunks= 5 | msgs=  29

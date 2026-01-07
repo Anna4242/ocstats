@@ -1,0 +1,16 @@
+====================================================================================================
+TOP 10 SESSIONS - HIGHEST STEP REWARD SCORES
+====================================================================================================
+
+Rank  Session ID                          Old PRM    New Step   Steps    Chunks   Msgs    
+----------------------------------------------------------------------------------------------------
+  1. ses_4ad346f5dffenUkFD0p1RwI1rd... | old=0.914 | new=0.988 | steps=112 | chunks= 2 | msgs= 112
+  2. ses_4a9f466bbffeozfcFPn4HTSh74... | old=0.932 | new=0.969 | steps=  1 | chunks= 1 | msgs=   3
+  3. ses_488e18eedffeVdAsxu4bNpXy3S... | old=0.924 | new=0.969 | steps=  1 | chunks= 1 | msgs=   3
+  4. ses_49365e43fffeIIv5lwq7QqppyK... | old=0.896 | new=0.963 | steps= 10 | chunks= 1 | msgs=  21
+  5. ses_49d640905ffevbB6ehPU5x39EW... | old=0.828 | new=0.959 | steps=  5 | chunks= 1 | msgs=  11
+  6. ses_4a71c3706ffe6XLOV0O8I200P4... | old=0.951 | new=0.956 | steps= 27 | chunks= 1 | msgs=  59
+  7. ses_499ea34aaffeEvnGU3e2knNWaK... | old=0.922 | new=0.948 | steps=  4 | chunks= 1 | msgs=   9
+  8. ses_4b1262a05ffcbA50l5S2YDIQVK... | old=0.932 | new=0.941 | steps=  1 | chunks= 1 | msgs=   3
+  9. ses_4ad7ffd6cffe5X8lIZwov2iAeU... | old=0.951 | new=0.938 | steps=  8 | chunks= 1 | msgs=  17
+ 10. ses_4b37f3f92ffeNpAyLpGWGPhlID... | old=0.965 | new=0.938 | steps=  1 | chunks= 1 | msgs=   3
