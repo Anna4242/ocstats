@@ -1,0 +1,16 @@
+====================================================================================================
+BOTTOM 10 SESSIONS (CLEANED DATA) - LOWEST STEP REWARD SCORES
+====================================================================================================
+
+Rank  Session ID                          New Step   Steps    Chunks   Msgs    
+----------------------------------------------------------------------------------------------------
+ 91. ses_48e4b2519ffevFghoH0qP95imG... | new=0.581 | steps=  4 | chunks= 4 | msgs=  27
+ 92. ses_4a57da4d5ffeYLEtHZIAMBbS46... | new=0.578 | steps= 13 | chunks= 7 | msgs=  71
+ 93. ses_492b2aab9ffeEvE7AH3zM64lMk... | new=0.567 | steps= 12 | chunks= 7 | msgs=  31
+ 94. ses_48a556399ffeYNxaQz8rOkj0o1... | new=0.500 | steps=  1 | chunks= 1 | msgs=   5
+ 95. ses_48a399abaffeK9U95G746kkQrc... | new=0.500 | steps=  1 | chunks= 1 | msgs=   5
+ 96. ses_4a937f8c9ffeOdgPZ78LpZtMk7... | new=0.500 | steps=  5 | chunks= 5 | msgs=  31
+ 97. ses_480915a57ffeyrG67llpLNPqSV... | new=0.500 | steps= 15 | chunks=15 | msgs= 205
+ 98. ses_4a592ac5affeicY0a8he2h5M1i... | new=0.500 | steps= 20 | chunks=20 | msgs= 360
+ 99. ses_4ad426108ffeS7lwZT8SxyZUOH... | new=0.500 | steps=  7 | chunks= 7 | msgs= 212
+100. ses_496737280ffeHFOmJVf4Vu1oo1... | new=0.484 | steps=  2 | chunks= 2 | msgs=   5

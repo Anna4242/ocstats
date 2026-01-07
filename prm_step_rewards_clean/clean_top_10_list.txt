@@ -1,0 +1,16 @@
+====================================================================================================
+TOP 10 SESSIONS (CLEANED DATA) - HIGHEST STEP REWARD SCORES
+====================================================================================================
+
+Rank  Session ID                          New Step   Steps    Chunks   Msgs    
+----------------------------------------------------------------------------------------------------
+  1. ses_489f68b95ffeEEUkybONAZQTqZ... | new=0.992 | steps=  1 | chunks= 1 | msgs=   3
+  2. ses_47fb6db90ffeCKZmad1y6YWPsK... | new=0.992 | steps=  1 | chunks= 1 | msgs=   3
+  3. ses_491a57219ffe4bpwZ7mGbiMJRh... | new=0.984 | steps=  1 | chunks= 1 | msgs=   4
+  4. ses_48a1e7b52ffeY3fcyLi4lO4c8Q... | new=0.984 | steps=  1 | chunks= 1 | msgs=   3
+  5. ses_48f455666ffeyUkErYCW5JmlyE... | new=0.979 | steps= 11 | chunks= 1 | msgs=  23
+  6. ses_484e0d096ffeXFzLKLzKq2TNuJ... | new=0.970 | steps= 13 | chunks= 1 | msgs=  27
+  7. ses_49e30dbc2ffeqNCVHxjyqQUdtu... | new=0.969 | steps=  1 | chunks= 1 | msgs=   3
+  8. ses_4960369ecffe93h4U3ceBrvZVo... | new=0.968 | steps= 16 | chunks= 1 | msgs=  32
+  9. ses_4adeb0a41ffedqvhvVH53OYbo0... | new=0.953 | steps= 24 | chunks= 1 | msgs=  48
+ 10. ses_49b527b75ffe3uvYUdK8dhHs9Z... | new=0.951 | steps=146 | chunks= 1 | msgs= 293
